@@ -1,0 +1,16 @@
+{
+  "name": "finanace-app-backend",
+  "version": "1.0.0",
+  "description": "finance app backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/logging": "^5.5.5",
+    "envvar": "^2.0.0",
+    "plaid": "^4.3.0"
+  }
+}
